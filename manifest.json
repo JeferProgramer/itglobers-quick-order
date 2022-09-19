@@ -10,7 +10,10 @@
     "docs": "0.x",
     "store": "0.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vtex.checkout-graphql": "0.x",
+    "vtex.store-graphql": "2.x"
+  },
   "registries": [
     "smartcheckout"
   ],
