@@ -47,3 +47,10 @@
   margin: 1rem;
   padding: 0.5rem;
 }
+
+@media (max-width: 550px) {
+  .conatinerForm{
+    flex-direction: column;
+    text-align: center;
+  }
+}
